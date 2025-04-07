@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'Coolvetica';
+    src: url(../fonts/Coolvetica\ Rg.otf);
+}
+
+@font-face {
+    font-family: 'Cyrvetic';
+    src: url(../fonts/CYRVETIC.TTF);
+}
+
+.Azul{
+    background-color: #3669C9;
+    position: fixed;
+    width: 100%;
+    height: 7%;
+}
+
+.In{
+    font-family: 'Cyrvetic', sans-serif;
+    position: fixed;
+    font-size: 0.9vmax;
+    color: white;
+    display: flex;
+    top: 3vh;
+    left: 12vw;
+
+}
+
+.img1{
+    justify-content: space-around;
+    color: white;
+    display: flex;
+    position: fixed;
+    left: 43vw;
+    top: 1vh;
+}
+
+.q{
+    font-family: 'Cyrvetic', sans-serif;
+    position: fixed;
+    font-size: 0.9vmax;
+    color: white;
+    display: flex;
+    top: 3vh;
+    left: 28vw;
+
+}
+
+.en{
+    font-family: 'Cyrvetic', sans-serif;
+    position: fixed;
+    font-size: 0.9vmax;
+    color: white;
+    display: flex;
+    top: 3vh;
+    left: 70vw;
+
+}
+
+
+.con{
+    font-family: 'Cyrvetic', sans-serif;
+    position: fixed;
+    color: white;
+    display: flex;
+    top: 3vh;
+    left: 85vw;
+    background-color: white;
+    color: black;
+    width: 6vw;
+    height: 2vh;
+    border-radius: 20px;
+
+}
+
+.pe{
+    position: fixed;
+    text-align: center;
+    left: 86vw;
+    font-size: 0.9vmax;
+}
+
+.principio{
+    justify-content: space-around;
+    position: fixed;
+    top: 7.4vmin;
+    background-image: url(../fotos/download.jpeg);
+    width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+
+}
+
+
