@@ -90,4 +90,36 @@
     opacity: 0.8;
 }
 
+.form1{
+    display: flex;
+    position: fixed;
+    top: 20vh;
+    left: 8vw;
+    width: 30vw;
+    height: 70vh;
+    background-color: white;
+    border-radius: 30px;
+}
 
+.titulo{
+    font-family: 'Cyrvetic', sans-serif;
+    position: fixed;
+    font-size: 3vmin;
+    color: black;
+    top: 10vmax;
+    left: 12.5vw;
+    text-decoration: none;
+}
+
+.subtitulo{
+    font-family: 'Cyrvetic', sans-serif;
+    position: fixed;
+    font-size: 0.5vmax;
+    color: black;
+    display: flex;
+    top: 18vmax;
+    left: 12.5vw;
+    text-decoration: none;
+    width: 30vw;
+    height: 10px;
+}
